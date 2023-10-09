@@ -291,7 +291,7 @@ footer p span {
     z-index: 1;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 283px) {
     .fixa {
         font-size: 8px !important;
         /* !important é adicionado para garantir que a regra seja aplicada */
@@ -301,7 +301,7 @@ footer p span {
 
 
 /* Regras de mídia para dispositivos móveis */
-@media (max-width: 414px) {
+@media (max-width: 283px) {
     .caixa-principal {
         background-size: 100% 100%;
         padding-left: 10px;
