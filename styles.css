@@ -349,3 +349,34 @@ footer p span {
         font-size: 50px;
     }
 }
+
+
+
+
+
+.card-projetos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+  }
+  
+  .linha-cards {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px; /* Ajuste conforme necessário */
+  }
+  
+  .card {
+    background-color: #03060c;
+    border: 1px solid #021c1f;
+    height: 385px;
+    width: 380px;
+    border-radius: 20px;
+    padding: 20px 20px;
+    text-align: center;
+    transition: transform 0.4s;
+    margin: 0 10px; /* Espaçamento entre os cards */
+  }
+  
